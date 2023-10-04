@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I'm a Software Engineer focused on Java Web applications
 - 🌱 I’m currently learning new front-end frameworks
+- 🔧 Building the future, one commit at a time. Let's connect and collaborate on exciting projects! 💬
 - 📫 How to reach me:
 { 
 "email"     : "yurilimmarabelo@gmail.com",
