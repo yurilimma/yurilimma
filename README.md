@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I'm a Software Engineer focused on Java Web applications
 - 🌱 I’m currently learning new front-end frameworks
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 { 
 "email"     : "yurilimmarabelo@gmail.com",
 "linkedin"  : "[yurilimma](https://www.linkedin.com/in/yurilimma/)"  
