@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 🔭 I'm a Software Engineer focused on Java Web applications
+- 🌱 I’m currently learning new front-end frameworks
+- 📫 How to reach me: ...
+{ 
+"email"     : "yurilimmarabelo@gmail.com",
+"linkedin"  : "[yurilimma](https://www.linkedin.com/in/yurilimma/)"  
+}
 <!--
 **yurilimma/yurilimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
